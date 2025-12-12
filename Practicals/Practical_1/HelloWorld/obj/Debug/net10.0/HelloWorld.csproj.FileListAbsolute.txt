@@ -1,0 +1,15 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/bin/Debug/net10.0/HelloWorld
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/obj/Debug/net10.0/HelloWorld.sourcelink.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll

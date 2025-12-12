@@ -1,0 +1,15 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/bin/Debug/net10.0/PrimeNumberCheck
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/bin/Debug/net10.0/PrimeNumberCheck.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/bin/Debug/net10.0/PrimeNumberCheck.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/bin/Debug/net10.0/PrimeNumberCheck.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/bin/Debug/net10.0/PrimeNumberCheck.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/obj/Debug/net10.0/PrimeNumberCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/obj/Debug/net10.0/PrimeNumberCheck.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/obj/Debug/net10.0/PrimeNumberCheck.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/obj/Debug/net10.0/PrimeNumberCheck.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/obj/Debug/net10.0/PrimeNumberCheck.sourcelink.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/obj/Debug/net10.0/PrimeNumberCheck.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/obj/Debug/net10.0/refint/PrimeNumberCheck.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/obj/Debug/net10.0/PrimeNumberCheck.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/obj/Debug/net10.0/PrimeNumberCheck.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/PrimeNumberCheck/obj/Debug/net10.0/ref/PrimeNumberCheck.dll

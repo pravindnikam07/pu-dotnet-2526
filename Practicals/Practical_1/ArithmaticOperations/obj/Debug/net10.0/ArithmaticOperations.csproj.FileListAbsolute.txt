@@ -1,0 +1,15 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/bin/Debug/net10.0/ArithmaticOperations
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/bin/Debug/net10.0/ArithmaticOperations.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/bin/Debug/net10.0/ArithmaticOperations.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/bin/Debug/net10.0/ArithmaticOperations.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/bin/Debug/net10.0/ArithmaticOperations.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/obj/Debug/net10.0/ArithmaticOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/obj/Debug/net10.0/ArithmaticOperations.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/obj/Debug/net10.0/ArithmaticOperations.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/obj/Debug/net10.0/ArithmaticOperations.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/obj/Debug/net10.0/ArithmaticOperations.sourcelink.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/obj/Debug/net10.0/ArithmaticOperations.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/obj/Debug/net10.0/refint/ArithmaticOperations.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/obj/Debug/net10.0/ArithmaticOperations.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/obj/Debug/net10.0/ArithmaticOperations.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_1/ArithmaticOperations/obj/Debug/net10.0/ref/ArithmaticOperations.dll
