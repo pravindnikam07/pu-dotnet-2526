@@ -1,0 +1,15 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/bin/Debug/net10.0/StudentApp
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/bin/Debug/net10.0/StudentApp.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/bin/Debug/net10.0/StudentApp.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/bin/Debug/net10.0/StudentApp.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/bin/Debug/net10.0/StudentApp.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/obj/Debug/net10.0/StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/obj/Debug/net10.0/StudentApp.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/obj/Debug/net10.0/StudentApp.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/obj/Debug/net10.0/StudentApp.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/obj/Debug/net10.0/StudentApp.sourcelink.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/obj/Debug/net10.0/StudentApp.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/obj/Debug/net10.0/refint/StudentApp.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/obj/Debug/net10.0/StudentApp.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/obj/Debug/net10.0/StudentApp.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/StudentApp/obj/Debug/net10.0/ref/StudentApp.dll
