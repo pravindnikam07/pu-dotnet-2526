@@ -1,0 +1,15 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/bin/Debug/net10.0/_2_RemoveOccurance
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/bin/Debug/net10.0/_2_RemoveOccurance.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/bin/Debug/net10.0/_2_RemoveOccurance.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/bin/Debug/net10.0/_2_RemoveOccurance.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/bin/Debug/net10.0/_2_RemoveOccurance.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/obj/Debug/net10.0/_2_RemoveOccurance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/obj/Debug/net10.0/_2_RemoveOccurance.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/obj/Debug/net10.0/_2_RemoveOccurance.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/obj/Debug/net10.0/_2_RemoveOccurance.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/obj/Debug/net10.0/_2_RemoveOccurance.sourcelink.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/obj/Debug/net10.0/_2_RemoveOccurance.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/obj/Debug/net10.0/refint/_2_RemoveOccurance.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/obj/Debug/net10.0/_2_RemoveOccurance.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/obj/Debug/net10.0/_2_RemoveOccurance.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_2_RemoveOccurance/obj/Debug/net10.0/ref/_2_RemoveOccurance.dll

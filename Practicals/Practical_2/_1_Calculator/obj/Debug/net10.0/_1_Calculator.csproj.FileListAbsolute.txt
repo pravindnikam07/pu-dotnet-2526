@@ -1,0 +1,15 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/obj/Debug/net10.0/_1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/obj/Debug/net10.0/_1_Calculator.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/obj/Debug/net10.0/_1_Calculator.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/obj/Debug/net10.0/_1_Calculator.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/obj/Debug/net10.0/_1_Calculator.sourcelink.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/bin/Debug/net10.0/_1_Calculator
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/bin/Debug/net10.0/_1_Calculator.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/bin/Debug/net10.0/_1_Calculator.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/bin/Debug/net10.0/_1_Calculator.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/bin/Debug/net10.0/_1_Calculator.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/obj/Debug/net10.0/_1_Calculator.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/obj/Debug/net10.0/refint/_1_Calculator.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/obj/Debug/net10.0/_1_Calculator.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/obj/Debug/net10.0/_1_Calculator.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/Practicals/Practical_2/_1_Calculator/obj/Debug/net10.0/ref/_1_Calculator.dll
