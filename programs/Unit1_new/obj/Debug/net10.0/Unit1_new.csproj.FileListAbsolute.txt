@@ -1,0 +1,15 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/bin/Debug/net10.0/Unit1_new
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/bin/Debug/net10.0/Unit1_new.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/bin/Debug/net10.0/Unit1_new.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/bin/Debug/net10.0/Unit1_new.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/bin/Debug/net10.0/Unit1_new.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/obj/Debug/net10.0/Unit1_new.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/obj/Debug/net10.0/Unit1_new.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/obj/Debug/net10.0/Unit1_new.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/obj/Debug/net10.0/Unit1_new.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/obj/Debug/net10.0/Unit1_new.sourcelink.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/obj/Debug/net10.0/Unit1_new.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/obj/Debug/net10.0/refint/Unit1_new.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/obj/Debug/net10.0/Unit1_new.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/obj/Debug/net10.0/Unit1_new.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1_new/obj/Debug/net10.0/ref/Unit1_new.dll
