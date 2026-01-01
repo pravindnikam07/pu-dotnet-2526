@@ -1,0 +1,15 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/bin/Debug/net10.0/Inheritance
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/bin/Debug/net10.0/Inheritance.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/bin/Debug/net10.0/Inheritance.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/bin/Debug/net10.0/Inheritance.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/bin/Debug/net10.0/Inheritance.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/obj/Debug/net10.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/obj/Debug/net10.0/Inheritance.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/obj/Debug/net10.0/Inheritance.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/obj/Debug/net10.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/obj/Debug/net10.0/Inheritance.sourcelink.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/obj/Debug/net10.0/Inheritance.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/obj/Debug/net10.0/refint/Inheritance.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/obj/Debug/net10.0/Inheritance.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/obj/Debug/net10.0/Inheritance.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Inheritance/obj/Debug/net10.0/ref/Inheritance.dll
