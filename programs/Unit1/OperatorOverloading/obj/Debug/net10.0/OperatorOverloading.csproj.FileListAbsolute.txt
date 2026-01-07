@@ -1,0 +1,15 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/bin/Debug/net10.0/OperatorOverloading
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/bin/Debug/net10.0/OperatorOverloading.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/bin/Debug/net10.0/OperatorOverloading.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/bin/Debug/net10.0/OperatorOverloading.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/bin/Debug/net10.0/OperatorOverloading.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/obj/Debug/net10.0/OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/obj/Debug/net10.0/OperatorOverloading.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/obj/Debug/net10.0/OperatorOverloading.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/obj/Debug/net10.0/OperatorOverloading.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/obj/Debug/net10.0/OperatorOverloading.sourcelink.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/obj/Debug/net10.0/OperatorOverloading.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/obj/Debug/net10.0/refint/OperatorOverloading.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/obj/Debug/net10.0/OperatorOverloading.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/obj/Debug/net10.0/OperatorOverloading.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit1/OperatorOverloading/obj/Debug/net10.0/ref/OperatorOverloading.dll
