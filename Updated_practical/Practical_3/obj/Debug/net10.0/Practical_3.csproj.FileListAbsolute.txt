@@ -1,0 +1,14 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/bin/Debug/net10.0/Practical_3
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/bin/Debug/net10.0/Practical_3.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/bin/Debug/net10.0/Practical_3.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/bin/Debug/net10.0/Practical_3.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/bin/Debug/net10.0/Practical_3.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/obj/Debug/net10.0/Practical_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/obj/Debug/net10.0/Practical_3.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/obj/Debug/net10.0/Practical_3.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/obj/Debug/net10.0/Practical_3.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/obj/Debug/net10.0/Practical_3.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/obj/Debug/net10.0/refint/Practical_3.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/obj/Debug/net10.0/Practical_3.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/obj/Debug/net10.0/Practical_3.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/Updated_practical/Practical_3/obj/Debug/net10.0/ref/Practical_3.dll
