@@ -1,0 +1,15 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/bin/Debug/net10.0/DBConnTest
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/bin/Debug/net10.0/DBConnTest.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/bin/Debug/net10.0/DBConnTest.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/bin/Debug/net10.0/DBConnTest.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/bin/Debug/net10.0/DBConnTest.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/obj/Debug/net10.0/DBConnTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/obj/Debug/net10.0/DBConnTest.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/obj/Debug/net10.0/DBConnTest.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/obj/Debug/net10.0/DBConnTest.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/obj/Debug/net10.0/DBConnTest.sourcelink.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/obj/Debug/net10.0/DBConnTest.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/obj/Debug/net10.0/refint/DBConnTest.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/obj/Debug/net10.0/DBConnTest.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/obj/Debug/net10.0/DBConnTest.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dotnet_2526/programs/Unit_3/DBConnTest/obj/Debug/net10.0/ref/DBConnTest.dll
