@@ -1,0 +1,14 @@
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/bin/Debug/net10.0/Practical_8
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/bin/Debug/net10.0/Practical_8.deps.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/bin/Debug/net10.0/Practical_8.runtimeconfig.json
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/bin/Debug/net10.0/Practical_8.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/bin/Debug/net10.0/Practical_8.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/obj/Debug/net10.0/Practical_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/obj/Debug/net10.0/Practical_8.AssemblyInfoInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/obj/Debug/net10.0/Practical_8.AssemblyInfo.cs
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/obj/Debug/net10.0/Practical_8.csproj.CoreCompileInputs.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/obj/Debug/net10.0/Practical_8.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/obj/Debug/net10.0/refint/Practical_8.dll
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/obj/Debug/net10.0/Practical_8.pdb
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/obj/Debug/net10.0/Practical_8.genruntimeconfig.cache
+/Users/pravindnikam/Documents/work/Trainings/parul university/2526_even_sem/dot_net/New_Practicals/Practical_8/obj/Debug/net10.0/ref/Practical_8.dll
